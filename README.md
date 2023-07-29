@@ -1,4 +1,4 @@
-![logo]([https://github.com/HamzaAR81/HamzaAR81/blob/main/images%20(2).jpeg](https://github.com/HamzaAR81/HamzaAR81/blob/main/banner.png))
+![logo](https://github.com/HamzaAR81/HamzaAR81/blob/main/images%20(2).jpeg](https://github.com/HamzaAR81/HamzaAR81/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Arshad</h1>
 <h3 align="center">A passionate Data Science Enthusiast From Pakistan</h3>
 <img align="right alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw03RfmVR-zNboYkakeBomiU&ust=1690730469486000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiWmvubtIADFQAAAAAdAAAAABAE" >
